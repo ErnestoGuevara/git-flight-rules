@@ -143,7 +143,7 @@ All commands should work for at least git version 2.13.0. See the [git website](
   - [Tutorials](#tutorials)
   - [Scripts and Tools](#scripts-and-tools)
   - [GUI Clients](#gui-clients)
-
+  - https://medium.com/free-code-camp/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Repositories
